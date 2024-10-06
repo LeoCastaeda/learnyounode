@@ -126,10 +126,13 @@ Para trabajar con los ejercicios, sigue estos pasos:
    npm install
    
 3. **Compila TypeScript a JavaScript**
+   ```
    Asegúrate de compilar tus archivos TypeScript a JavaScript usando el siguiente comando:
-   ```tsc
+   ```
+   **tsc**
 4. **Ejecuta los Ejercicios**
-   Ejecuta los scripts en el directorio dist como se indicó en la sección de descripción del proyecto.
+  ```
+  Ejecuta los scripts en el directorio dist como se indicó en la sección de descripción del proyecto.
 
 
 
